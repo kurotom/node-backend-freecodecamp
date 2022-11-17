@@ -3,6 +3,7 @@
 	"author": "Tomás Valdivia Fuentes",
 	"version": "1.0.0",
 	"description": "Proyecto learn node backend - freecodecamp",
+	"keywords": ["freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
