@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tomás Valdivia Fuentes",
 	"version": "1.0.0",
+	"description": "Proyecto learn node backend - freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
